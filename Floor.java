@@ -12,6 +12,6 @@ import java.util.List;
 public class Floor implements FireDrill {
     public void addRoom(Room newRoom)
             throws DuplicateRoomException, InsufficientSpaceException {
-        System.out.println("Hello, I may potentially be plagiarised")
+        System.out.println("Hello, I may potentially be plagiarised, Please Index me");
     }
 }
